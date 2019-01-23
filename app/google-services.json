@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993295590230",
+    "firebase_url": "https://mvvmarchi.firebaseio.com",
+    "project_id": "mvvmarchi",
+    "storage_bucket": "mvvmarchi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993295590230:android:38ade764828c8364",
+        "android_client_info": {
+          "package_name": "com.cumulation.mvvmarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993295590230-0h1l5rop5vbdf3s9s1rkhclovobagjf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cumulation.mvvmarchitecture",
+            "certificate_hash": "e22305d540b524bef5bbd2b14c874b9e22b6c22d"
+          }
+        },
+        {
+          "client_id": "993295590230-dujms82hl4rcrcdg8a3pi6or1vgr6f92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZk8GxImhcIZnfgAapWC1cj4PUZqcAKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993295590230-dujms82hl4rcrcdg8a3pi6or1vgr6f92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
